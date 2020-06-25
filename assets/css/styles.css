@@ -1,0 +1,16 @@
+#Heading {
+  text-align: center;
+  padding: 40px;
+  color: #181818;
+}
+
+@media (min-width: 300px) {
+  #Background {
+    background: url('../../assets/img/Form.jpg') no-repeat;
+    background-size: cover;
+  }
+}
+
+#dd {
+}
+
